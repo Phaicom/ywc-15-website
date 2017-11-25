@@ -36,6 +36,7 @@ npm start
 
 * [Node.js](https://nodejs.org/) - The web framework used
 * [Vue.js](https://vuejs.org/) - The front-end framework used
+* [ElementUI](http://element.eleme.io/) - A Vue.js 2.0 UI Toolkit for Web
 
 ## Authors
 
