@@ -1,8 +1,22 @@
-# ywc-announcement
+# YWC#15 Website
 
-> A Vue.js project
+YWC#15 Programming homework
 
-## Build Setup
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisites
+
+What things you need to install the software and how to install them
+
+```
+Node.js ^7.0.0
+```
+
+### Installing
+
+A step by step series of examples that tell you have to get a development env running
 
 ``` bash
 # install dependencies
@@ -14,17 +28,19 @@ npm run dev
 # build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
+# serve the production after building
+npm start
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Built With
+
+* [Node.js](https://nodejs.org/) - The web framework used
+* [Vue.js](https://vuejs.org/) - The front-end framework used
+
+## Authors
+
+* **Reawpai Chunsoi** - *Initial work* - [Phaicom](https://github.com/Phaicom)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
