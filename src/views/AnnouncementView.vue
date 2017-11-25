@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="anmtView">
     <anmt-element></anmt-element>
     <el-container>
       <el-main>

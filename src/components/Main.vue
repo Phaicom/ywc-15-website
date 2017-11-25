@@ -305,20 +305,18 @@ p
   font-size 20px
 
 .major
-  position relative
-  top -20px
   font-size 15px
 
 .box
-  display flex
+  display block
   flex-direction column
   justify-content center
   align-items center
-  padding 0px 20px
+  padding 20px 20px 0px 20px
   min-height 150px
   border-radius 5px
-  margin-bottom 10px
   transition all 0.2s
+  text-align center
 
   &.pressed
     box-shadow 0 1px 3px 0 rgba(0, 0, 0, 0.15)

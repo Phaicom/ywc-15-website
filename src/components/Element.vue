@@ -141,6 +141,7 @@ export default {
 
   div
     position fixed
+    z-index -100
 
   .d1
     top 5%
